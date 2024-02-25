@@ -1,4 +1,4 @@
-#include<sidio.h>
+#include <stdio.h>
 int mian() {
 
 printf("The name of the owner is siba prasad sahu");
